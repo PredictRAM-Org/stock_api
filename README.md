@@ -1,6 +1,6 @@
 # Stock Data API
 
-A FastAPI-based service for accessing comprehensive stock market data.
+This is a FastAPI service that provides access to comprehensive stock market data.
 
 ## Installation
 
